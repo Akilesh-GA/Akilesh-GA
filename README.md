@@ -1,7 +1,7 @@
 # About Me
 I'm currently a student at Kongu Engineering College, pursuing an MSc in Software Systems. As a passionate software developer, I'm enthusiastic about solving real-world problems through various technological stacks. My projects reflect my commitment to innovative and practical solutions.
 
-## Socials
+# Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akilesh-g-a-704959304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akileshga.1466@gmail.com) 
 
 # Technology Stack
@@ -12,16 +12,14 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akilesh-GA&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akilesh-GA&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
+# GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akilesh-GA&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### Developer Insight
+# Developer Insight
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### Top Contributed Repo
+# Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Akilesh-GA&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akilesh-GA&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
