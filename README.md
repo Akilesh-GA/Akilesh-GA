@@ -39,10 +39,3 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 # Developer Insight
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-# Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Akilesh-GA&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Akilesh-GA&icon=5&color=1)](https://visitcount.itsvg.in)
