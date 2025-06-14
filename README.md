@@ -29,7 +29,6 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=auto)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=auto)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%230A0A0A.svg?style=flat&logo=jenkins&logoColor=auto)
-
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=auto)
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat&logo=apachetomcat&logoColor=auto)
 
