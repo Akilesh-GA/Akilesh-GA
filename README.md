@@ -4,7 +4,15 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 
 # Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akilesh-g-a-704959304/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akileshga.1466@gmail.com) 
+<!-- LinkedIn Icon -->
+<a href="https://www.linkedin.com/in/akilesh-g-a-704959304/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40"/>
+</a>&nbsp;&nbsp;
+
+<!-- Email Icon -->
+<a href="mailto:akileshga.1466@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40"/>
+</a>
 
 # Tech Stack
 
