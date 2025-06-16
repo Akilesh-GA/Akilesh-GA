@@ -26,11 +26,12 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=auto)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=auto)
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=auto)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=auto)
-![Jenkins](https://img.shields.io/badge/Jenkins-%230A0A0A.svg?style=flat&logo=jenkins&logoColor=auto)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=auto)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat&logo=apachetomcat&logoColor=auto)
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3628885-3030009.png" alt="Kubernetes" height="40"/>&nbsp;&nbsp;
+<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="40"/>&nbsp;&nbsp;
+<img src="https://avatars.githubusercontent.com/u/10449154?s=280&v=4" alt="Terraform" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tomcat-logo.svg/1200px-Tomcat-logo.svg.png" alt="Apache Tomcat" height="40"/>
+
 
 # GitHub Stats
 
