@@ -34,7 +34,7 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>&nbsp;&nbsp;
 <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="40"/>&nbsp;&nbsp;
 <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" height="40"/>
-<img src="[https://upload.wikimedia.org/wikipedia/commons/f/fd/Tomcat-logo.svg" alt="Apache Tomcat" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Tomcat-logo.svg" alt="Apache Tomcat" height="40"/>
 
 # GitHub Stats
 
