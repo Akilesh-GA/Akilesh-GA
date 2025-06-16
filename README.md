@@ -32,10 +32,8 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 
 <!-- DevOps Tools -->
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3628885-3030009.png" alt="Kubernetes" height="40"/>&nbsp;&nbsp;
 <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="40"/>&nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/10449154?s=280&v=4" alt="Terraform" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Tomcat-logo.svg/1200px-Tomcat-logo.svg.png" alt="Apache Tomcat" height="40"/>
 
 
 # GitHub Stats
