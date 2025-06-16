@@ -33,8 +33,7 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 <!-- DevOps Tools -->
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>&nbsp;&nbsp;
 <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="40"/>&nbsp;&nbsp;
-<img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" height="40"/>
-<img src="[https://upload.wikimedia.org/wikipedia/commons/f/fd/Tomcat-logo.svg](https://www.google.com/imgres?q=apache%20tomcat&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*cN2rMJzULsRku5R8FFBVeQ.png&imgrefurl=https%3A%2F%2Fblog.stackademic.com%2Finternal-architecture-and-working-of-apache-tomcat-4a0b1800627d&docid=b2kYR6aUgVtR4M&tbnid=luxY6a0p83-RUM&vet=12ahUKEwi8tfjLtvaNAxWEg2MGHboUOloQM3oECD0QAA..i&w=1400&h=868&hcb=2&ved=2ahUKEwi8tfjLtvaNAxWEg2MGHboUOloQM3oECD0QAA)" alt="Apache Tomcat" height="40"/>
+<img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Tomcat-logo.svg" alt="Apache Tomcat" height="40"/>
 
 # GitHub Stats
 
