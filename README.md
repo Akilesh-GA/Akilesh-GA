@@ -22,7 +22,7 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 <!-- Database Logos -->
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="40"/>&nbsp;&nbsp;
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" height="40"/>&nbsp;&nbsp;
 <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" height="40"/>
 
