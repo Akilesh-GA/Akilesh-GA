@@ -31,9 +31,11 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" height="40"/>
 
 <!-- DevOps Tools -->
+
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40"/>
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>&nbsp;&nbsp;
 <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Tomcat-logo.svg" alt="Apache Tomcat" height="40"/>
 
 # GitHub Stats
 
