@@ -8,14 +8,16 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 
 # Tech Stack
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=auto)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=auto)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=auto)
+<!-- Programming Languages -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40"/>&nbsp;&nbsp;
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40"/>
 
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=auto)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=auto)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=auto)
+<!-- Python Libraries/Frameworks -->
+<img src="https://numpy.org/images/logo.svg" alt="NumPy" height="40"/>&nbsp;&nbsp;
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="40"/>
 
 <!-- Database Logos -->
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="40"/>&nbsp;&nbsp;
@@ -28,6 +30,7 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="40"/>&nbsp;&nbsp;
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" height="40"/>
 
+<!-- DevOps Tools -->
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>&nbsp;&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/kubernetes-3628885-3030009.png" alt="Kubernetes" height="40"/>&nbsp;&nbsp;
 <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="40"/>&nbsp;&nbsp;
