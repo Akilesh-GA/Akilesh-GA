@@ -14,10 +14,6 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40"/>
 </a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Akilesh-GA&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 # Tech Stack
 
 <!-- Back-end Languages -->
