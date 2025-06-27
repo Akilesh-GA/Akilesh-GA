@@ -16,7 +16,14 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 
 # Tech Stack
 
-<!-- Programming Languages -->
+<!-- Front-end Languages -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="40"/>
+
+<!-- Back-end Languages -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40"/>&nbsp;&nbsp;
