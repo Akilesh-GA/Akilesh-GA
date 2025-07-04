@@ -6,7 +6,7 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 
 <!-- LinkedIn Icon -->
 <a href="https://www.linkedin.com/in/akilesh-g-a-704959304/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="10"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40"/>
 </a>&nbsp;&nbsp;
 
 <!-- Email Icon -->
