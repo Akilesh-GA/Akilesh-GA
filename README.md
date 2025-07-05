@@ -4,57 +4,49 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 
 # Socials
 
-<!-- LinkedIn Icon -->
 <a href="https://www.linkedin.com/in/akilesh-g-a-704959304/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30"/>
 </a>&nbsp;&nbsp;
-
-<!-- Email Icon -->
 <a href="mailto:akileshga.1466@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30"/>
 </a>
 
 # Tech Stack
 
 <!-- Back-end Languages -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40"/>&nbsp;&nbsp;
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="30"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30"/>&nbsp;&nbsp;
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="30"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="30"/>
 
 <!-- Front-end Languages -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="30"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="30"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="30"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="30"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" height="40"/>
+<!-- Python Libraries -->
+<img src="https://numpy.org/images/logo.svg" alt="NumPy" height="30"/>&nbsp;&nbsp;
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="30"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="30"/>
 
-<!-- Python Libraries/Frameworks -->
+<!-- Databases -->
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="30"/>&nbsp;&nbsp;
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="30"/>&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" height="30"/>&nbsp;&nbsp;
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" height="30"/>
 
-<img src="https://numpy.org/images/logo.svg" alt="NumPy" height="40"/>&nbsp;&nbsp;
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="40"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" height="40"/>
+<!-- Flutter & Firebase -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="30"/>&nbsp;&nbsp;
+<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" height="30"/>
 
-<!-- Database Logos -->
+<!-- DevOps -->
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="30"/>&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30"/>&nbsp;&nbsp;
+<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="30"/>&nbsp;&nbsp;
+<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="30"/>&nbsp;&nbsp;
 
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="40"/>&nbsp;&nbsp;
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" height="40"/>&nbsp;&nbsp;
-<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" height="40"/>
-
-<!-- Flutter & Firebase Logos -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="40"/>&nbsp;&nbsp;
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" height="40"/>
-
-<!-- DevOps Tools -->
-
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40"/>&nbsp;&nbsp;
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40"/>&nbsp;&nbsp;
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>&nbsp;&nbsp;
-<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" height="40"/>&nbsp;&nbsp;
 
 # GitHub Stats
 
