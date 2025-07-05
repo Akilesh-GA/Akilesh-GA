@@ -13,11 +13,11 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 
 # Tech Stack
 
-<!-- Back-end Languages -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="30"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30"/>&nbsp;&nbsp;
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="30"/>&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="30"/>
+<!-- Tech Stack -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" style="height:30px;" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height:30px;" />&nbsp;&nbsp;
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" style="height:30px;" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="height:30px;" />
 
 <!-- Front-end Languages -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="30"/>&nbsp;&nbsp;
