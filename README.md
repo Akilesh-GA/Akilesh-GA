@@ -1,6 +1,8 @@
 # About Me
 
-I'm currently a student at Kongu Engineering College, pursuing an MSc in Software Systems. As a passionate software developer, I'm enthusiastic about solving real-world problems through various technological stacks. My projects reflect my commitment to innovative and practical solutions.
+Aspiring software developer with experience in building scalable and secure systems, developing models to solve real-world problems, managing databases.
+Creating impactful software solutions. Passionate about exploring new technologies and leveraging diverse tech stacks to solve real-world challenges. 
+Demonstrates a strong ability to deliver innovative solutions that drive success and create meaningful impact.
 
 # Socials
 
