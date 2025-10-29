@@ -28,6 +28,7 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 <!-- Python Libraries -->
 <img src="https://numpy.org/images/logo.svg" alt="NumPy" style="height: 40px;" />&nbsp;&nbsp;
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" style="height: 40px;" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" style="height: 40px;" />&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" style="height: 40px;" />
 
 <!-- Databases -->
