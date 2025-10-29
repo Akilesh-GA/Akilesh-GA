@@ -36,6 +36,7 @@ I'm currently a student at Kongu Engineering College, pursuing an MSc in Softwar
 <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" style="height: 40px;" />
 
 <!-- Flutter & Firebase -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" style="height: 40px;" />&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height: 40px;" />&nbsp;&nbsp;
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase" style="height: 40px;" />
 
