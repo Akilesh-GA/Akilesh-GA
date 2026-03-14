@@ -35,7 +35,6 @@ Demonstrates a strong ability to deliver innovative solutions that drive success
 
 <!-- Databases -->
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" style="height: 40px;" />&nbsp;&nbsp;
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" style="height: 40px;" />&nbsp;&nbsp;
 <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" style="height: 40px;" />
 
 <!-- Flutter & Firebase -->
@@ -48,6 +47,7 @@ Demonstrates a strong ability to deliver innovative solutions that drive success
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height: 40px;" />&nbsp;&nbsp;
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" style="height: 40px;" />&nbsp;&nbsp;
 <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins" style="height: 40px;" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="height: 40px;" />&nbsp;&nbsp;
 
 # GitHub Stats
 
