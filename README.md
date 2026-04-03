@@ -4,8 +4,6 @@
 
 </div>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 ### 📝 About Me
 <div align="justify">
 Aspiring software developer with experience in building scalable and secure systems, developing models to solve real-world problems, and managing databases. I am dedicated to creating impactful software solutions and passionate about exploring new technologies. By leveraging diverse tech stacks, I aim to solve real-world challenges and deliver innovative solutions that drive success and create a meaningful impact in the tech industry.
