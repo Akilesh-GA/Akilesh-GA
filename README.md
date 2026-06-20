@@ -17,7 +17,7 @@ Aspiring software developer with experience in building scalable and secure syst
 ### 🔗 Socials
 
 <p align="center">
-<a href="https://www.linkedin.com/in/akilesh-g-a-704959304/" target="_blank">
+<a href="https://www.linkedin.com/in/akilesh-ga" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>&nbsp;&nbsp;
 <a href="mailto:akileshga.1466@gmail.com">
