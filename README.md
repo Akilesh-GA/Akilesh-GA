@@ -55,12 +55,6 @@ Aspiring software developer with experience in building scalable and secure syst
   <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws" />
 </p>
 
-### 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilesh-GA&theme=tokyonight&hide_border=true" />
-</p>
-
 ### ✌️ Developer insights
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
