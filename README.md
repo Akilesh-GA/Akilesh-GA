@@ -47,9 +47,7 @@ Aspiring software developer with experience in building scalable and secure syst
 
 **Mobile App Development**
 <p align="center">
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Flutter" />
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Dart" />
-  <img src="https://jsdelivr.net" height="40" width="40" alt="Android" />
+  <img src="https://skillicons.dev/icons?i=flutter,android" />
 </p>
 
 **DevOps & Cloud**
