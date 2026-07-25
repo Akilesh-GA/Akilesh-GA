@@ -13,7 +13,20 @@
 
 <div align="justify">
 
-Aspiring Software Developer with experience in Android app development, backend development, and database management. I enjoy building scalable and user-friendly applications using Java, Spring Boot, Flutter, Firebase, and modern development tools. I am passionate about learning new technologies, solving real-world problems, and writing clean, efficient, and maintainable code. My goal is to build impactful software that delivers reliable and meaningful solutions.
+Currently working as a Software Developer Trainee at Sparkout Tech Solutions Inc., focusing on Android Development using XML, Java and Android SDK. Experienced in integrating RESTful APIs with Spring Boot backend services to build scalable, production-ready solutions.
+
+Previously Interned as a Flutter Developer Intern at PunchBiz Shipped BookTheBiz—live on Play Store and App Store. Owned UI optimization, event booking features, and authentication pipeline (Firebase Auth + Firestore). Measurable impact: reduced booking flow friction by streamlining business logic; drove feature adoption through thoughtful UX.
+
+Tech Stack:
+Mobile: Android (Java/XML), Flutter | Backend: Spring Boot, Java | Data: Firebase, Firestore, MongoDB, MySQL, H2
+Infrastructure: Docker, Jenkins (CI/CD), AWS | Version Control: Git, GitHub
+
+Projects:
+ML-based Security Suite | Built 3 production-grade models: phishing email classifier, URL-based threat detection, facial recognition for access control. Engineered features from raw security data; validated against real attack datasets. Deployed as backend microservices.
+
+Secure Data Wiping Tool | Implemented cryptographic deletion protocols ensuring NIST compliance.
+
+Clear, maintainable code built for scale. I measure success by reliability and impact—not features shipped, but problems actually solved. Currently focused on mobile-first architecture and hardening authentication pipelines against real threats.
 
 </div>
 
