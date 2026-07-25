@@ -32,15 +32,15 @@ Clear, maintainable code built for scale. I measure success by reliability and i
 
 ## 🔗 Socials
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/akilesh-ga" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:akileshga.1466@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Akilesh_1466/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="55" alt="LeetCode"/>
   </a>
@@ -51,8 +51,6 @@ Clear, maintainable code built for scale. I measure success by reliability and i
 ## Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java"/>
