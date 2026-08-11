@@ -17,13 +17,6 @@ Currently working as a Software Developer Trainee at Sparkout Tech Solutions Inc
 
 Previously Interned as a Flutter Developer Intern at PunchBiz Shipped BookTheBiz—live on Play Store and App Store. Owned UI optimization, event booking features, and authentication pipeline (Firebase Auth + Firestore). Measurable impact: reduced booking flow friction by streamlining business logic; drove feature adoption through thoughtful UX.
 
-Tech Stack:
-Mobile: Android, Java, XML, Retrofit, Flutter | Backend: Spring Boot, REST APIs | Data: Firebase, MongoDB, MySQL, H2
-Infrastructure: Docker, Jenkins, AWS | Version Control: Git, GitHub
-
-Projects:
-ML-based Security Suite | Built 3 production-grade models: phishing email classifier, URL-based threat detection, facial recognition for access control. Engineered features from raw security data; validated against real attack datasets. Deployed as backend microservices.
-
 Clear, maintainable code built for scale. I measure success by reliability and impact—not features shipped, but problems actually solved. Currently focused on mobile-first architecture and hardening authentication pipelines against real threats.
 
 </div>
