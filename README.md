@@ -42,10 +42,6 @@ Prioritizing code ownership and secure development by minimizing reliance on AI-
   <a href="https://leetcode.com/u/Akilesh_1466/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="60" height="60" alt="LeetCode"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@akileshga.1466" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="60" height="60" alt="Medium"/>
-  </a>
 </p>
 
 <h2>Tech Stack</h2>
