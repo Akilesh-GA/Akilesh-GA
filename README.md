@@ -12,13 +12,11 @@
 
 <div align="justify">
 
-Currently working as a Software Developer Trainee at Sparkout Tech Solutions Inc., specializing in Android development using XML, Material 3, Java, Android SDK, Retrofit, and Firebase. Building scalable applications by integrating RESTful APIs with Spring Boot and H2 backend services, along with Google Maps integration for location-based features. Taking full ownership of implementation by minimizing AI-generated code and independently handling Android security, configurations, and core development.
+Software Developer Trainee at Sparkout Tech Solutions, specializing in Android development with Java, XML, Retrofit, and Firebase. Building scalable systems by integrating REST APIs with Spring Boot and H2 backend service. Reducing AI Assistance in Android Architecture to enhance security.
 
-Previously interned as a Flutter Developer at PunchBiz, contributing to BookTheBiz, a live app on the Play Store and App Store. Owned UI enhancements, event booking features, and authentication, while optimizing business logic to streamline the booking flow and improve user experience. Collaborated directly with clients and investors to understand requirements, incorporate feedback, and align product features with business goals.
+Interned as a Flutter Developer at PunchBiz, Worked on develop and launch BookTheBiz, a live app available on the Play Store and App Store. Collaborated directly with clients and investors to understand requirements, incorporate feedback, and align product features with business goals.
 
-Demonstrating strong DSA and problem-solving skills through maintainable and scalable code. Debug issues systematically by identifying and resolving root causes, avoiding temporary fixes, boilerplate code, and performance bottlenecks. Taking end-to-end ownership of features across the complete lifecycle of the product. Crafting scalable application architecture with a focus on clean structure, efficient data flow, maintainability, and long-term extensibility.
-
-Prioritizing code ownership and secure development by minimizing reliance on AI-generated code, especially when implementing and validating Android system security practices.
+Applying legacy DSA and problem-solving skills in building maintainable and scalable solutions. Take end-to-end ownership of products while prioritizing secure development through minimal reliance on AI-generated code, with independent implementation and validation of Android security practices.
 
 </div>
 
