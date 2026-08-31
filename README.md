@@ -1,12 +1,6 @@
 <div align="center">
-  
-<h2> Akilesh </h2> 
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android;Flutter;DSA;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android;Java;Spring-Boot;Flutter;" />
 
 </div>
 
@@ -36,7 +30,8 @@ Prioritizing code ownership and secure development by minimizing reliance on AI-
   </a>
   &nbsp;&nbsp;
   <a href="mailto:akileshga.1466@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60" height="60" alt="Gmail"/>
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" 
+       width="60" height="60" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Akilesh_1466/" target="_blank">
