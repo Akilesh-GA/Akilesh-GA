@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Android;Java;Spring-Boot;Flutter;" />
 
-</div>
+</div> -->
 
 <div>
   <img src="github.gif">
